@@ -1,0 +1,46 @@
+.contenedor {
+  background-color: rgb(227, 239, 196);
+}
+
+.img {
+  border-radius: 90%;
+  display: block;
+  margin: auto;
+}
+
+.nRom {
+  list-style: upper-roman;
+  list-style-position: inside;
+}
+
+.titulo {
+  font-family: "Rock Salt", cursive;
+  padding: 30px;
+  font-style: italic;
+  caption-side: bottom;
+  color: #000;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+html {
+  background-color: bisque;
+}
+
+.ulist {
+  list-style-type: square;
+  color: darkblue;
+}
+
+thead {
+  background-color: rgb(22, 53, 73);
+  color: #ffffff;
+  text-align: middle;
+}
+
+tbody,
+tfoot {
+  background-color: rgb(214, 239, 255);
+  color: #1d1818;
+  text-align: center;
+}
