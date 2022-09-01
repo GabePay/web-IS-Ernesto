@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Are+You+Serious&display=swap");
+
+:root {
+  font-size: 35px;
+  font-family: "Are You Serious", cursive;
+}
+
+body {
+  background-color: rgb(255, 237, 201);
+  width: 60%;
+  align-content: center;
+}
+
+.img {
+  width: 200px;
+}
+
+h1 {
+  font-size: 36px;
+  width: 100%;
+  text-align: center;
+  border-bottom: black solid;
+}
+
+.indice {
+  border: 2px gray solid;
+  border-radius: 20%;
+  padding: 25 px 10px;
+  margin: 19px;
+  text-align: center;
+}
+
+.pal {
+  text-align: justify;
+  font-size: 20px;
+}
+
+ul {
+  list-style: square;
+}
+
+td,
+th {
+  padding: 10px;
+  border: 1px black solid;
+}
+
+thead {
+  font-style: italic;
+}
