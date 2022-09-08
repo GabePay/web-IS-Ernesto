@@ -7,12 +7,6 @@
   align-items: center;
 }
 
-.producto {
-  flex-direction: column;
-  justify-content: start;
-  padding: 0 5rem;
-}
-
 .titulo {
   text-transform: uppercase;
   font-weight: 500;
@@ -44,8 +38,7 @@
   color: white;
 }
 
-.formulario-contenedor,
-.producto-contenedor {
+.formulario-contenedor {
   width: 28rem;
   min-height: 30rem;
   padding: 2rem;
@@ -55,8 +48,4 @@
 
 .campos {
   margin: 10px 0;
-}
-
-.campos p:nth-child(1) {
-  font-weight: 500;
 }
